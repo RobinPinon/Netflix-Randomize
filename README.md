@@ -1,2 +1,7 @@
-# HTML Boilerplate
-Boilerplate for static HTML projects with Webpack and Bulma
+# Install all packages :
+
+yarn install
+
+# Compile scss and continue to dev :
+
+yarn run watch
